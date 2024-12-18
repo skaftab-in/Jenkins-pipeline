@@ -58,7 +58,7 @@ Jenkins supports multiple types of projects to suit a variety of workflows and r
 6. **Organization Folder:** Automatically scans and manages repositories in an organization (e.g., GitHub or Bitbucket) and creates pipelines for them.
 
 <p align="center">
-  <img src="i WILL DO IT LATER" alt="Jenkins Project Types" width="700px">
+  <img src="image.png" alt="Jenkins Project Types" width="700px">
 </p>
 
 > The above image shows the Jenkins project creation page, where you can choose from various project types based on your requirements.
